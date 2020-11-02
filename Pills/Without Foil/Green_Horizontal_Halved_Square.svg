@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (1.0+r73+1)"
-   sodipodi:docname="Square1.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="Green_Horizontal_Halved_Square.svg"
    id="svg898"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 20.759924 20.75992"
+   height="20.75992mm"
+   width="20.759924mm">
   <defs
      id="defs892" />
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="95.969492"
-     inkscape:cx="119.20214"
+     inkscape:cy="67.649893"
+     inkscape:cx="79.534691"
      inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,14 +44,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     inkscape:label="Layer 1"
+     transform="translate(-10.495346,-7.492894)">
     <g
        transform="translate(-37.867359,-14.723089)"
        id="g1463">

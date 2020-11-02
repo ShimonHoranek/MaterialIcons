@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="Blue_Circle_In_Silver_Foil.svg"
    id="svg898"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 73.84996 36.78476"
+   height="36.78476mm"
+   width="73.84996mm">
   <defs
      id="defs892">
     <radialGradient
@@ -42,18 +42,18 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:window-y="27"
      inkscape:window-x="0"
      inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="g2081"
      inkscape:document-units="mm"
-     inkscape:cy="164.46284"
-     inkscape:cx="225.16699"
+     inkscape:cy="129.53613"
+     inkscape:cx="37.048227"
      inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -76,7 +76,8 @@
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     inkscape:label="Layer 1"
+     transform="translate(-12.258952,-9.2410258)">
     <g
        transform="translate(-72.179393,-39.83845)"
        id="g1636">
