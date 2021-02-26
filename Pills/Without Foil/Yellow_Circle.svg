@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Yellow_Circle.svg"
    id="svg898"
    version="1.1"
@@ -42,19 +42,19 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="g1636"
      inkscape:document-units="mm"
-     inkscape:cy="118.30377"
-     inkscape:cx="-73.599664"
-     inkscape:zoom="1.979899"
+     inkscape:cy="44.711604"
+     inkscape:cx="24.596301"
+     inkscape:zoom="5.6"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -81,12 +81,15 @@
     <g
        transform="translate(-72.179393,-39.83845)"
        id="g1636">
-      <circle
-         style="fill:#ffdf52;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="path1601-8"
-         cx="87.413757"
-         cy="54.271004"
-         r="9.7605639" />
+      <g
+         id="g837">
+        <circle
+           style="fill:#ffeb3b;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="path1601-8"
+           cx="87.413757"
+           cy="54.271004"
+           r="9.7605639" />
+      </g>
     </g>
   </g>
 </svg>

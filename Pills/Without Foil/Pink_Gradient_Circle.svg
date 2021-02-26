@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Pink_Gradient_Circle.svg"
    id="svg898"
    version="1.1"
@@ -41,7 +41,7 @@
          style="stop-color:#ffc430;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
-       gradientTransform="matrix(2.8144679,0,0,2.7600399,-143.95757,-153.56975)"
+       gradientTransform="matrix(2.8144679,0,0,2.7769314,-143.95757,-154.84165)"
        gradientUnits="userSpaceOnUse"
        r="10.293064"
        fy="75.298286"
@@ -61,23 +61,23 @@
       <stop
          id="stop1630"
          offset="1"
-         style="stop-color:#ef7bef;stop-opacity:0;" />
+         style="stop-color:#e040fb;stop-opacity:0" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
-     inkscape:window-x="279"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="g1636"
      inkscape:document-units="mm"
-     inkscape:cy="118.35846"
-     inkscape:cx="-71.578987"
-     inkscape:zoom="1.979899"
+     inkscape:cy="-30.993226"
+     inkscape:cx="37.397691"
+     inkscape:zoom="2.8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -104,12 +104,15 @@
     <g
        transform="translate(-72.179393,-39.83845)"
        id="g1636">
-      <circle
-         r="9.7605639"
-         cy="54.256535"
-         cx="86.87912"
-         id="path1601"
-         style="fill:url(#radialGradient1634);fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         id="g854">
+        <circle
+           cy="54.256535"
+           cx="86.87912"
+           id="path1601"
+           style="fill:url(#radialGradient1634);fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           r="9.7605639" />
+      </g>
     </g>
   </g>
 </svg>

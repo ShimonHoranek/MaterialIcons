@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Blue_White_Horizontal_Pill.svg"
    id="svg898"
    version="1.1"
@@ -42,19 +42,19 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="g2081"
      inkscape:document-units="mm"
-     inkscape:cy="162.58703"
-     inkscape:cx="-67.58273"
-     inkscape:zoom="1.4"
+     inkscape:cy="47.887532"
+     inkscape:cx="14.940599"
+     inkscape:zoom="2.8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -85,10 +85,10 @@
          transform="translate(12.323041,7.3926193)"
          id="g2081">
         <g
-           id="g2370">
+           id="g842">
           <path
              d="m 85.685839,40.955176 h -12.79715 c -3.588186,0 -6.476608,2.88843 -6.476608,6.47661 v 0.75447 c 0,3.58819 2.888422,6.47713 6.476608,6.47713 h 12.79715 z"
-             style="fill:#59abe2;fill-opacity:1;stroke:#282929;stroke-width:1.04575;stroke-linecap:round;stroke-linejoin:round"
+             style="fill:#29b6f6;fill-opacity:1;stroke:#282929;stroke-width:1.04575;stroke-linecap:round;stroke-linejoin:round"
              id="rect865-9" />
           <path
              d="m 85.685839,40.955176 v 13.70821 h 12.795602 c 3.588179,0 6.477119,-2.88894 6.477119,-6.47713 v -0.75447 c 0,-3.58818 -2.88894,-6.47661 -6.477119,-6.47661 z"

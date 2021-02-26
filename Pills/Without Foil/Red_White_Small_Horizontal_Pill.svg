@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Red_White_Small_Horizontal_Pill.svg"
    id="svg898"
    version="1.1"
@@ -42,19 +42,19 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="g2081"
      inkscape:document-units="mm"
-     inkscape:cy="166.15039"
-     inkscape:cx="-73.459123"
-     inkscape:zoom="1.4"
+     inkscape:cy="54.165202"
+     inkscape:cx="47.021522"
+     inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -85,16 +85,15 @@
          transform="translate(12.323041,7.3926193)"
          id="g2081">
         <g
-           transform="matrix(-1,0,0,1,166.40447,0)"
-           id="g2249">
+           id="g843">
           <path
              id="rect865-0-0"
              style="fill:#f7f7f7;fill-opacity:1;stroke:#282929;stroke-width:1.02203;stroke-linecap:round;stroke-linejoin:round"
-             d="m 86.332568,40.000514 h -12.20209 c -3.421347,0 -6.175457,2.89343 -6.175457,6.48782 v 0.75577 c 0,3.5944 2.75411,6.48834 6.175457,6.48834 h 12.20209 z" />
+             d="m 80.071902,40.000514 h 12.20209 c 3.421347,0 6.175457,2.89343 6.175457,6.48782 v 0.75577 c 0,3.5944 -2.75411,6.48834 -6.175457,6.48834 h -12.20209 z" />
           <path
              id="path1455-9-2"
-             style="fill:#c61b0a;fill-opacity:1;stroke:#282929;stroke-width:0.842301;stroke-linecap:round;stroke-linejoin:round"
-             d="m 86.218978,39.910644 v 13.91167 h 8.17975 c 2.2938,0 4.14059,-2.93182 4.14059,-6.57327 v -0.76566 c 0,-3.64144 -1.84679,-6.57274 -4.14059,-6.57274 z" />
+             style="fill:#b71c1c;fill-opacity:1;stroke:#282929;stroke-width:0.842301;stroke-linecap:round;stroke-linejoin:round"
+             d="m 80.185492,39.910644 v 13.91167 h -8.17975 c -2.2938,0 -4.14059,-2.93182 -4.14059,-6.57327 v -0.76566 c 0,-3.64144 1.84679,-6.57274 4.14059,-6.57274 z" />
         </g>
       </g>
     </g>

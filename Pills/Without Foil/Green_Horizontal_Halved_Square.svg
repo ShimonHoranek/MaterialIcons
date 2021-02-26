@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Green_Horizontal_Halved_Square.svg"
    id="svg898"
    version="1.1"
@@ -17,18 +17,18 @@
   <defs
      id="defs892" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="67.649893"
-     inkscape:cx="79.534691"
+     inkscape:cx="17.915386"
      inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -54,16 +54,15 @@
      inkscape:label="Layer 1"
      transform="translate(-10.495346,-7.492894)">
     <g
-       transform="translate(-37.867359,-14.723089)"
-       id="g1463">
+       id="g837">
       <path
          id="rect1721-9"
-         style="fill:#a2e296;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 68.590128,32.594393 v -4.281908 c 0,-3.08237 -2.481632,-5.564002 -5.564001,-5.564002 h -8.56692 c -3.082369,0 -5.564002,2.481632 -5.564002,5.564002 v 4.281908 z" />
+         style="fill:#aed581;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 30.722769,17.871304 v -4.281908 c 0,-3.08237 -2.481632,-5.564002 -5.564001,-5.564002 h -8.56692 c -3.082369,0 -5.564002,2.481632 -5.564002,5.564002 v 4.281908 z" />
       <path
          id="path1743"
-         style="fill:#a2e296;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="M 68.590128,32.594393 H 48.895205 v 4.285009 c 0,3.082369 2.481633,5.564002 5.564002,5.564002 h 8.56692 c 3.082369,0 5.564001,-2.481633 5.564001,-5.564002 z" />
+         style="fill:#aed581;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 30.722769,17.871304 H 11.027846 v 4.285009 c 0,3.082369 2.481633,5.564002 5.564002,5.564002 h 8.56692 c 3.082369,0 5.564001,-2.481633 5.564001,-5.564002 z" />
     </g>
   </g>
 </svg>

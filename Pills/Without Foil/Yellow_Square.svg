@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Yellow_Square.svg"
    id="svg898"
    version="1.1"
@@ -17,18 +17,18 @@
   <defs
      id="defs892" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
-     inkscape:window-width="960"
+     inkscape:window-height="1136"
+     inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="80.971135"
-     inkscape:cx="76.805439"
+     inkscape:cx="15.186134"
      inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -53,13 +53,16 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      transform="translate(-4.6982272,-3.9683154)">
-    <rect
-       ry="5.5638437"
-       y="4.5008154"
-       x="5.2307272"
-       height="19.694942"
-       width="19.694942"
-       id="rect1721"
-       style="fill:#ffff94;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <g
+       id="g832">
+      <rect
+         ry="5.5638437"
+         y="4.5008154"
+         x="5.2307272"
+         height="19.694942"
+         width="19.694942"
+         id="rect1721"
+         style="fill:#fff176;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

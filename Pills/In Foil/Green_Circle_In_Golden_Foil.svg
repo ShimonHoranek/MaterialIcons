@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="Green_Circle_In_Golden_Foil.svg"
    id="svg898"
    version="1.1"
@@ -43,9 +43,9 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-width="1920"
      inkscape:pagecheckerboard="false"
      showgrid="false"
@@ -85,135 +85,125 @@
          transform="translate(12.323041,7.3926193)"
          id="g2081">
         <g
-           transform="rotate(-90,86.57505,61.249718)"
-           id="g3572">
+           id="g888">
           <rect
-             style="fill:#ffffb0;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round"
+             style="fill:#fff176;fill-opacity:1;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round"
              id="rect2335-0-6"
              width="72.784958"
              height="35.719761"
-             x="43.688339"
-             y="-106.2243"
-             ry="5.5638442"
-             transform="rotate(90)" />
+             x="69.013672"
+             y="41.600475"
+             ry="5.5638442" />
           <circle
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              id="path2516-4-2"
-             cx="56.389435"
-             cy="-95.789421"
-             r="4.7678747"
-             transform="rotate(90)" />
+             cx="81.714767"
+             cy="52.035351"
+             r="4.7678747" />
           <ellipse
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round"
              id="path2611-8-1"
-             cx="112.27752"
-             cy="-36.373455"
+             cx="10.182373"
+             cy="91.64135"
              rx="1.306924"
              ry="0.69593412"
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)" />
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)" />
           <circle
              r="4.7678747"
-             cy="-95.770515"
-             cx="71.922363"
+             cy="52.054256"
+             cx="97.247696"
              id="path2516-7-71-7"
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-             transform="rotate(90)" />
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
           <ellipse
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)"
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)"
              ry="0.69593412"
              rx="1.306924"
-             cy="-25.742046"
-             cx="121.98132"
+             cy="102.27276"
+             cx="19.886177"
              id="path2611-6-7-8"
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round" />
           <circle
              r="4.7678747"
-             cy="-95.781044"
-             cx="87.057701"
+             cy="52.043728"
+             cx="112.38303"
              id="path2516-9-2-5"
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-             transform="rotate(90)" />
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
           <ellipse
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)"
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)"
              ry="0.69593412"
              rx="1.306924"
-             cy="-15.404427"
-             cx="131.45984"
+             cy="112.61038"
+             cx="29.364693"
              id="path2611-3-7-7"
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round" />
           <circle
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              id="path2516-7-7-22-4"
-             cx="102.59063"
-             cy="-95.762123"
-             r="4.7678747"
-             transform="rotate(90)" />
+             cx="127.91596"
+             cy="52.062649"
+             r="4.7678747" />
           <ellipse
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round"
              id="path2611-6-4-6-1"
-             cx="141.16364"
-             cy="-4.7730031"
+             cx="39.068489"
+             cy="123.24181"
              rx="1.306924"
              ry="0.69593412"
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)" />
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)" />
           <circle
              r="4.7678747"
-             cy="-80.747368"
-             cx="56.392181"
+             cy="67.0774"
+             cx="81.717514"
              id="path2516-5-1-8"
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-             transform="rotate(90)" />
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
           <ellipse
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)"
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)"
              ry="0.69593412"
              rx="1.306924"
-             cy="-25.106792"
-             cx="100.27803"
+             cy="102.90801"
+             cx="-1.8171154"
              id="path2611-2-0-5"
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round" />
           <circle
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              id="path2516-7-5-6-9"
-             cx="71.92511"
-             cy="-80.728447"
-             r="4.7678747"
-             transform="rotate(90)" />
+             cx="97.250443"
+             cy="67.096321"
+             r="4.7678747" />
           <ellipse
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round"
              id="path2611-6-47-1-7"
-             cx="109.98182"
-             cy="-14.475365"
+             cx="7.8866735"
+             cy="113.53944"
              rx="1.306924"
              ry="0.69593412"
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)" />
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)" />
           <circle
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              id="path2516-9-4-5-5"
-             cx="87.060448"
-             cy="-80.739006"
-             r="4.7678747"
-             transform="rotate(90)" />
+             cx="112.38578"
+             cy="67.085762"
+             r="4.7678747" />
           <ellipse
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round"
              id="path2611-3-4-9-3"
-             cx="119.46037"
-             cy="-4.1377492"
+             cx="17.365227"
+             cy="123.87706"
              rx="1.306924"
              ry="0.69593412"
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)" />
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)" />
           <circle
              r="4.7678747"
-             cy="-80.720093"
-             cx="102.59338"
+             cy="67.104675"
+             cx="127.91872"
              id="path2516-7-7-3-4-8"
-             style="fill:#61ff99;fill-opacity:0.948012;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-             transform="rotate(90)" />
+             style="fill:#64dd17;fill-opacity:0.94901961;stroke:#282929;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
           <ellipse
-             transform="matrix(0.67414346,0.73860043,-0.61710046,0.78688438,0,0)"
+             transform="matrix(0.73860043,-0.67414346,0.78688438,0.61710046,0,0)"
              ry="0.69593412"
              rx="1.306924"
-             cy="6.4936633"
-             cx="129.16412"
+             cy="134.50847"
+             cx="27.068977"
              id="path2611-6-4-0-9-8"
              style="fill:#ffffff;fill-opacity:0.948012;stroke:none;stroke-width:1.0652;stroke-linecap:round;stroke-linejoin:round" />
         </g>
